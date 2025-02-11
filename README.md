@@ -12,7 +12,7 @@ screen -S gaspace
 curl -O https://raw.githubusercontent.com/uangdrop/Hyperspace/refs/heads/main/Hyperspace.sh && chmod +x Hyperspace.sh && ./Hyperspace.sh
 ```
 #### Take you Private Key (Not you Wallet PK)
-- visit : [Hyperspace Here](url) 
+- visit : [Hyperspace Here]([url](https://node.hyper.space/)) 
 - Copy your Private Key (See Image Below)
 
   ![image](https://github.com/user-attachments/assets/1b74c3c0-5ff7-4664-8a92-3877888cf85d)
