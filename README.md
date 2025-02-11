@@ -5,7 +5,7 @@
 #### Make a New Screen MobaxTerm
 
 ```shell
-screen -S kopispace
+screen -S gaspace
 ```
 #### Install and Run
 ```shell
