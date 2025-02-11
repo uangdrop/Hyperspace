@@ -19,7 +19,7 @@ EOF
 
     printf "\n\n"
 
-    # GA CRYPTO Banner
+    # KOPI HITAM Banner
     GREEN="\033[0;32m"
     RESET="\033[0m"
     printf "${GREEN}"
