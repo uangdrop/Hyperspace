@@ -23,3 +23,8 @@ curl -O https://raw.githubusercontent.com/uangdrop/Hyperspace/refs/heads/main/Hy
 
 - Save your Private Key and Make your Node still running
 
+- To detach you can use CTRL+A+D
+- To reattach you can use
+```shell
+screen -r gaspace
+```
